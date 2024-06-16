@@ -42,4 +42,4 @@ After cloning the repository and installing the dependencies, you can run the no
 The logistic regression model achieved perfect classification accuracy, with 100% precision and recall. This suggests the model is highly effective for this dataset and could serve as a benchmark for more complex classification algorithms.
 
 ## Credits
-This project was developed by myself. Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-profile) or review more projects on [GitHub](https://github.com/your-github).
+This project was developed by myself. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/immanuel-e-104196114/) or review more projects on GitHub.
